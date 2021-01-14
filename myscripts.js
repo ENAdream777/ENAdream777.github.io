@@ -8,8 +8,8 @@ function univTest() {
     location.href = "univTest.html";
 }
 
-function successStory() {
-    location.href = "sucessStory.html";
+function review() {
+    location.href = "review.html";
 }
 
 function contact() {
