@@ -12,6 +12,11 @@ function review() {
     location.href = "review.html";
 }
 
+
+function bytesCalc() {
+    location.href = "bytesCalc.html";
+}
+
 // function for Kakaotalk connection functionlaity
 function contact() {
     location.href = "http://pf.kakao.com/_ptbIxb/chat";
