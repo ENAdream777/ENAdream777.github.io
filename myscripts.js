@@ -23,3 +23,7 @@ function contact() {
 }
 
 
+
+function supporters() {
+    location.href = "supporters.html";
+}
